@@ -1,7 +1,6 @@
-# HTC-Week-1-Task-
-Summary of all tasks for week 1 in HT Consulting internship.
+# HT Consulting Internship-
+This repository contains all my projects done during my internshio with HT Consulting
 
-First file is the data samples the company has given to work with.
-Second file contains all the instructions/task for week 1.
-Third File shows the csv file created from the code.
-Fourth file contains the jupyter notebook which has the main code and a brief report of the code.
+Notebook file contains all the code and explanations/overviews of how the code works.
+Data file contains all my results of altering data samples, it is split into audio, text, and image folders. The backup folder contains the original data samples unaltered.
+Requirements file contains all the pdfs with the intructions/tasks given for each week.
