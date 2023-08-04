@@ -1,0 +1,5 @@
+Other Models Available:
+
+1. Haar-Cascade Classifier
+2. Histogram of Orientes Gradients (HOG)
+3. Single Shot Multibox Detector (SSD)
