@@ -62,4 +62,10 @@ Below is a summary of all tasks completed in each week:
   - I also had to research on how binary trees worked.
 
 ## Week 9
--
+- Fixed my YOLO such that my gpu is used for training the model instead of my cpu. I found out that I was using an old version of YOLO and thus it was not compatible with my cuda and cudnn versions.
+- Helped Mark and Afif to label an extra 150 images for their bank cheque dataset. It consisted of manually drawing boxes around objects on a cheque that was meant to be detected; signature, name, MICR, date, amount, etc.
+- I then trained the model with the whole dataset combined which consisted of 600 total images, the training time was much faster (by a total of 2 hours) since my gpu was detected this time. The dataset was split into       training, test, and validation with a ratio of 70% : 20% : 10% respectively.
+- ### Programming Fundamentals Course
+  - During this week, Jimmy had assigned us to modify our Binary Tree implementation such that stacks were used to store the nodes instead of recursion.
+  - In addition to that he had also tasked us to experiment with processes colliding; we had to implement a burger station that has 5 counters simultaneously selling burgers by decrementing a number stored in a mysql          database. This was to demonstrate the importance of having locks in multithreading.
+
