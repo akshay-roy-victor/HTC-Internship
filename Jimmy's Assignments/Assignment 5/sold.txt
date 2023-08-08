@@ -1,5 +1,0 @@
-Counter 1: 200
-Counter 2: 1
-Counter 3: 1
-Counter 4: 1
-Counter 5: 1
