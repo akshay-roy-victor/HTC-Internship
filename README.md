@@ -4,7 +4,7 @@ This repository contains all my projects done during my internship with HT Consu
 Notebook file contains all the code and explanations/overviews of how the code works.
 Data file contains all my results of altering data samples, it is split into audio, text, and image folders. The backup folder contains the original data samples unaltered.
 Requirements file contains all the libraries and tools needed to run the code.
-The file labeled "Jimmy" contains all assignments he has tasked the interns/new employees with.
+The file labeled "Programming Fundamentals Course" contains all assignments Jimmy has tasked the interns/new employees with.
 
 Below is a summary of all tasks completed in each week:
 
