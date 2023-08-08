@@ -43,20 +43,20 @@ Below is a summary of all tasks completed in each week:
 
 ## Week 6
 - I had to bug fix the YOLO object detection source code as it could not detect my GPU and thus the model training took a long amount of time to train.
-- ### JIMMY
+- ### Programming Fundamentals Course
   - This was the start of Jimmy’s assignments. He had given us tasks to experiment with bit manipulation and discover the booth algorithm.
   - I had to implement functions to set bits, convert decimals to binary, unset bits, find max number of a short data type, and the booth algorithm.
 
 ## Week 7
 - During this week, I had to retrain some datasets using the YOLO object detection model as some data was inaccurate/lost. I also had to plot their performance on a graph and tabulate information such as image per class     size, mAP accuracies, and accuracy on random bank cheque image samples, both coloured and grayscale.
-- ### JIMMY
+- ### Programming Fundamentals Course
   - I had to learn to differentiate the performances of switch-case statements and if-else statements; I had to implement functions that used both methods to give an output of number of days based on the month passed into     the function.
   - I also had to implement a function that converts all letters of a string to uppercase, in recursive manner, and pass by reference.
   - I also had to implement a function that prints all possible combinations of a string given the number of letters, and length of string.
 
 ## Week 8
 - More bug fixing was needed for YOLO as the model couldn't detect my gpu
-- ### JIMMY
+- ### Programming Fundamentals Course
   - I had to implement a stack, and then use the stack to modify my to uppercase function from before such that instead of working recursively, it instead works in a while loop utilizing the stack to store the letters of      a string. This function also had to work by passing variables by value.
   - I also had to implement a binary tree alongside tree depth reversal functions.
   - I also had to research on how binary trees worked.
