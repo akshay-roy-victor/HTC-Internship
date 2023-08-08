@@ -4,6 +4,7 @@ This repository contains all my projects done during my internship with HT Consu
 Notebook file contains all the code and explanations/overviews of how the code works.
 Data file contains all my results of altering data samples, it is split into audio, text, and image folders. The backup folder contains the original data samples unaltered.
 Requirements file contains all the libraries and tools needed to run the code.
+The file labeled "Jimmy" contains all assignments he has tasked the interns/new employees with.
 
 Below is a summary of all tasks completed in each week:
 
@@ -59,3 +60,6 @@ Below is a summary of all tasks completed in each week:
   - I had to implement a stack, and then use the stack to modify my to uppercase function from before such that instead of working recursively, it instead works in a while loop utilizing the stack to store the letters of      a string. This function also had to work by passing variables by value.
   - I also had to implement a binary tree alongside tree depth reversal functions.
   - I also had to research on how binary trees worked.
+
+## Week 9
+-
