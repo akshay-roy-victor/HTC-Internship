@@ -70,6 +70,8 @@ Below is a summary of all tasks completed in each week:
   - In addition to that he had also tasked us to experiment with processes colliding; we had to implement a burger station that has 5 counters simultaneously selling burgers by decrementing a number stored in a mysql          database. This was to demonstrate the importance of having locks in multithreading.
 
 ## Week 10
+- Finished writing report in markdowns in my jupyter notebook for YOLO object detection model training.
+- Updated all github pushes, github readme, and monthly reports until this current time.
 
 ## Week 11
 
