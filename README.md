@@ -72,6 +72,13 @@ Below is a summary of all tasks completed in each week:
 ## Week 10
 - Finished writing report in markdowns in my jupyter notebook for YOLO object detection model training.
 - Updated all github pushes, github readme, and monthly reports until this current time.
+- Learned from Afif (my senior) on how to use detecto for object detection. Essentially I performed the same tasks as I did with the bank cheques however I used detecto instead of YOLO.
+- Performed a interview shooting with my partner for the comapany's internship campaign
+- ### Programming Fundamentals Course
+  - Learned about rollback, commits, and importance of logs in database transactions.
+  - Tasked to implement a binary tree using mySQL database
+  - Tasked to implement a syntax checker function that takes in an equation and check if it is mathematically computable
+  - Tasked to make a program that simulates a couple of trains running a course on a track, and crash them if they reach the same station simultaneously
 
 ## Week 11
 
