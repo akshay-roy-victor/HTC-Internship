@@ -81,6 +81,10 @@ Below is a summary of all tasks completed in each week:
   - Tasked to make a program that simulates a couple of trains running a course on a track, and crash them if they reach the same station simultaneously
 
 ## Week 11
+- Removed an erroneous preprocessing step when cleaning the dataset used to train both the detecto and YOLO model. (removed the resizing of images to 480 pixels)
+- Fixed 'winerror5' occuring while training my YOLO model. It was discovered that since downloading the packages/libraries for detecto, my YOLO model started to have this error popup whenver I tried to train the model.      The problem is due to the fact that both AI models use the same math kernels which causes a conflict. Therefore a line of code is needed before training the model which allows both models to use the same math kernel.
+- Re-split all datasets for new images to train detecto and YOLO.
+- Fine tuned size of image preprocessing for YOLO to increase accuracy. It should be noted the training time is significantly increased. (resized images = 224 changed to 640)
 
 ## Week 12
 
