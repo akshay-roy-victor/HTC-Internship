@@ -85,6 +85,9 @@ Below is a summary of all tasks completed in each week:
 - Fixed 'winerror5' occuring while training my YOLO model. It was discovered that since downloading the packages/libraries for detecto, my YOLO model started to have this error popup whenver I tried to train the model.      The problem is due to the fact that both AI models use the same math kernels which causes a conflict. Therefore a line of code is needed before training the model which allows both models to use the same math kernel.
 - Re-split all datasets for new images to train detecto and YOLO.
 - Fine tuned size of image preprocessing for YOLO to increase accuracy. It should be noted the training time is significantly increased. (resized images = 224 changed to 640)
+- Discovered that 640 imgz is too large and causes the model traning to take way too long even with the use of my GPU, therefore it was finalized to use 416 imgz for YOLO.
+- Discovered that the model used in YOLO is a version that is not so accurate: yolov8s, further experimentation on other models is done next week.
+- Learned to save model trained in Detecto and use it on company bank cheque samples.
 
 ## Week 12
 
