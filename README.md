@@ -86,8 +86,11 @@ Below is a summary of all tasks completed in each week:
 - Re-split all datasets for new images to train detecto and YOLO.
 - Fine tuned size of image preprocessing for YOLO to increase accuracy. It should be noted the training time is significantly increased. (resized images = 224 changed to 640)
 - Discovered that 640 imgz is too large and causes the model traning to take way too long even with the use of my GPU, therefore it was finalized to use 416 imgz for YOLO.
-- Discovered that the model used in YOLO is a version that is not so accurate: yolov8s, further experimentation on other models is done next week.
 - Learned to save model trained in Detecto and use it on company bank cheque samples.
+- ### Programming Fundamentals Course
+  - Learned causes of database crashing.
+  - Learned mutex, locks, and semaphores.
+  - Had to debug my simulation of trains crashing assignment as my trains never crashed.
 
 ## Week 12
 
