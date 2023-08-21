@@ -93,4 +93,9 @@ Below is a summary of all tasks completed in each week:
   - Had to debug my simulation of trains crashing assignment as my trains never crashed.
 
 ## Week 12
+- Finished presentation slides and final industrial report for submission.
+- Fixed YOLO and DETECTO bugs.
+-  ### Programming Fundamentals Course
+   - Fixed train.py bugs
+   - implemented tree in SQL database   
 
